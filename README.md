@@ -11,9 +11,18 @@ IBM Applied DevOps Engineering
 4. Gain technical experience through hands on labs and projects and build a portfolio to demonstrate your job readiness
 
 # Skills
-` Site Reliability Engineering (SRE) `  ` DevOps Engineering `  ` Kubernetes `  ` Agile Methodologies `  
-` Continuous Integration and Continuous Deployment (CI/CD) `  ` Test-Driven Development `  ` CI/CD `  ` Behavior-Driven Development `  
-` Devops `  ` Agile Software Development `  ` Scrum Methodology `  ` Zenhub `  
+` Site Reliability Engineering (SRE) `  
+` DevOps Engineering `  
+` Kubernetes `  
+` Agile Methodologies `  
+` Continuous Integration and Continuous Deployment (CI/CD) `  
+` Test-Driven Development `  
+` CI/CD `  
+` Behavior-Driven Development `  
+` Devops `  
+` Agile Software Development `  
+` Scrum Methodology `  
+` Zenhub `  
 
 # About this Professional Certificate
 
@@ -31,10 +40,10 @@ Professional Certificate from IBM， You’ll also gain access to exclusive care
 
 Each course in this professional certificate includes hands-on labs and real-world projects to build your DevOps portfolio such as:
 
-creating and executing an Agile plan using ZenHub
+  * creating and executing an Agile plan using ZenHub
 
-building and deploying an application with Kubernetes and horizontal pod scaling
+  * building and deploying an application with Kubernetes and horizontal pod scaling
 
-developing a web application with microservices and deploying it on cloud using serverless
+  * developing a web application with microservices and deploying it on cloud using serverless
 
-a capstone project where you write a RESTful Flask microservice and automate its testing with the Python Nose package while practicing agile principles and deploy using Kubernetes/OpenShift and a Tekton CI/CD pipeline
+  * a capstone project where you write a RESTful Flask microservice and automate its testing with the Python Nose package while practicing agile principles and deploy using Kubernetes/OpenShift and a Tekton CI/CD pipeline
